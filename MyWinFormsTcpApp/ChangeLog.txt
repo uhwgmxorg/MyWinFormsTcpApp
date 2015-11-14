@@ -1,0 +1,20 @@
+
+    ChangeLog MyWinFormsTcpApp
+
+   Version 1.2.0.0 Revivion 0 08.07.2015 
+   - Add Client recovery if host doesn't listen or 
+     interrupt the listen
+   - Add a CommonExceptionHandlingMethod
+   - Better error handling in Client sending method
+   - Settings with ClassSerialization
+   - Add Auto Recover CheckBox
+
+    Version 1.1.0.0 31.03.2015
+    - Add ChangeLog
+    - Changing the switching logic
+
+    Version 1.0.0.0 31.03.2015
+    - First stable version
+
+    Version 0.0.0.0 25.03.2015
+    - Start
